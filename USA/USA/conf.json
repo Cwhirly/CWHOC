@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "folder": "contest",
+  "name": "USA",
+  "subdir": [
+    "Day1"
+  ],
+  "title": "全国青少年语文美国联赛",
+  "short title": "CCF USA2026"
+}
