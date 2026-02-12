@@ -1,0 +1,28 @@
+{
+  "version": 3,
+  "folder": "day",
+  "name": "Day1",
+  "subdir": [
+    "elas"
+  ],
+  "title": "第一试",
+  "compile": {
+    "cpp": "-O2 -std=c++14 -static"
+  },
+  "start time": [
+    1145,
+    1,
+    4,
+    0,
+    0,
+    0
+  ],
+  "end time": [
+    1919,
+    8,
+    10,
+    0,
+    0,
+    0
+  ]
+}
