@@ -1,0 +1,30 @@
+{
+  "version": 3,
+  "folder": "day",
+  "name": "Day1",
+  "subdir": [
+    "srfmn",
+    "Cyrene",
+    "Se"
+  ],
+  "title": "第一试",
+  "compile": {
+    "cpp": "-O2 -std=c++14 -static"
+  },
+  "start time": [
+    1145,
+    1,
+    4,
+    11,
+    45,
+    0
+  ],
+  "end time": [
+    1919,
+    8,
+    10,
+    19,
+    19,
+    0
+  ]
+}

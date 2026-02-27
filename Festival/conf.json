@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "folder": "contest",
+  "name": "Festival",
+  "subdir": [
+    "Day1"
+  ],
+  "title": "全国青少年语文竞赛科技节",
+  "short title": "CWHOC Technolegy Festival"
+}

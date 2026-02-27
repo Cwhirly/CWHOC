@@ -1,0 +1,98 @@
+{
+  "title": "CCF 全校青少年语文奥林匹克联赛",
+  "subtitle": "CCF CWHOC 2026",
+  "dayname": "",
+  "date": {
+    "start": [
+      2026,
+      11,
+      1,
+      1,
+      9,
+      0
+    ],
+    "end": [
+      2026,
+      11,
+      1,
+      9,
+      10,
+      0
+    ]
+  },
+  "use_pretest": false,
+  "noi_style": true,
+  "file_io": true,
+  "support_languages": [
+    {
+      "name": "C++",
+      "compile_options": "-O2 -std=c++14 -static -m32"
+    }
+  ],
+  "problems": [
+    {
+      "name": "april",
+      "title": "四月天",
+      "type": "传统型",
+      "dir": "april",
+      "exec": "april",
+      "input": "april.in",
+      "output": "april.ans",
+      "time_limit": "1.0 秒",
+      "memory_limit": "256 MiB",
+      "testcase": "20",
+      "point_equal": "是",
+      "submit_filename": [
+        "april.cpp"
+      ]
+    },
+    {
+      "name": "Kong",
+      "title": "孔乙己",
+      "type": "传统型",
+      "dir": "Kong",
+      "exec": "Kong",
+      "input": "Kong.in",
+      "output": "Kong.ans",
+      "time_limit": "1.0 秒",
+      "memory_limit": "256 MiB",
+      "testcase": "20",
+      "point_equal": "是",
+      "submit_filename": [
+        "Kong.cpp"
+      ]
+    },
+    {
+      "name": "road",
+      "title": "蜀道难",
+      "type": "传统型",
+      "dir": "road",
+      "exec": "road",
+      "input": "road.in",
+      "output": "road.ans",
+      "time_limit": "2.0 秒",
+      "memory_limit": "256 MiB",
+      "testcase": "20",
+      "point_equal": "是",
+      "submit_filename": [
+        "road.cpp"
+      ]
+    },
+    {
+      "name": "cloth",
+      "title": "无衣",
+      "type": "传统型",
+      "dir": "cloth",
+      "exec": "cloth",
+      "input": "cloth.in",
+      "output": "cloth.ans",
+      "time_limit": "1.0 秒",
+      "memory_limit": "256 MiB",
+      "testcase": "20",
+      "point_equal": "是",
+      "submit_filename": [
+        "cloth.cpp"
+      ]
+    }
+  ]
+}
